@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="repository.traphouse" name="traphouse" version="0.0.1" provider-name="Stunna">
+	<extension point="xbmc.addon.repository" name="traphouse">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/trickdaddy0024/repository.traphouse/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/trickdaddy0024/repository.traphouse/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/trickdaddy0024/repository.traphouse/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Quick one liner about the repository</summary>
+		<description lang="en">Full repository description.</description>
+		<genre>movies,tvshows,wizard,usa</genre>
+	</extension>
+</addon>
+</addons>
